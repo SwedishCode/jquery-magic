@@ -1,0 +1,4 @@
+jquery-magic
+============
+
+Magic!
